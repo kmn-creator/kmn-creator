@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Govt Primary School Heroor Bhatkal Uttara Kannada </title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    
+    h1 {
+      color: #008000;
+    }
+    
+    p {
+      color: #333;
+    }
+    
+    .highlight {
+      background-color: #f7f7f7;
+      padding: 10px;
+    }
+    
+    .contact-info {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to Govt Primary School Heroor Bhatkal Uttara kannada</h1>
+  
+  <div class="highlight">
+    <h2>About Us</h2>
+    <p>Govt Primary School Heroor is a government-run primary school located in Benandoor road  the Bhatkal Taluk  of Heroor. We are committed to providing quality education to young learners in a safe and nurturing environment.</p>
+    <p>Our dedicated teachers and staff work tirelessly to create a positive learning atmosphere that encourages the holistic development of our students.</p>
+  </div>
+  
+  <div class="contact-info">
+    <h2>Contact Information</h2>
+    <p><strong>Address:</strong> 123 Main Street, Herro</p>
+    <p><strong>Phone:</strong> (123) 456-7890</p>
+    <p><strong>Email:</strong> info@govtprimaryherro.com</p>
+  </div>
+</body>
+</html>
